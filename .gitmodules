@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gen3sis"]
+	path = gen3sis
+	url = https://github.com/project-gen3sis/r-package
+	shallow = true
+	registered = true
